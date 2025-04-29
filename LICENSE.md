@@ -1,4 +1,4 @@
-<code>
+<html><code>
 CAT
 Els textos inclosos al repositori tenen llicència "Reconeixement-NoComercial-SenseObraDerivada 4.0 Internacional". Es a dir, podeu copiar-ho i compartir-lo sempre que sigui sense finalitats comercials, sense fer cap modificació i fent esment del seu autor: "mmerinoji".
 
@@ -12,4 +12,4 @@ The texts included in this repository are licensed under an "Attribution-NonComm
 
 You can read the license here:
 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en
-</code>
+</code></html>
