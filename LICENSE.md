@@ -14,7 +14,7 @@
   <div>
     <h2>ENG</h2>
     <p>The texts included in this repository are licensed under an "Attribution-NonCommercial-NoDerivatives 4.0 International" license.<br>
-        That means you are free to copy and distribute this work without adapt it and only for non-commercial use, but you must credit to 
+        That means you are free to copy and distribute this work without adapt it and only for non-commercial use, but you must credit to  
         <a href="https://github.com/mmerinoji">mmerinoji</a> as the original author.
     </p>
     <p></p>
