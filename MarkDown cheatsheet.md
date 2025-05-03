@@ -63,7 +63,9 @@
 
 - item
 - item
-- item
+    - item
+    - item
+- item 
 <br>
 
 ## Fer una línia divisoria
@@ -76,9 +78,14 @@
 [Aquí va el comentari]: #  
 <br>
 
-## Fer un enllaç amb text alternatiu   
+## Fer un enllaç
 
-![text alt](enllaç)  
+[Aquí va el text de l'enllaç](aquí_va_l'adreça_de_l'enllaç)  
+<br>
+
+## Enllaçar una imatge amb text alternatiu   
+
+![Aquí va el text alternatiu](aquí_va_l'adreça_de_la_imatge)  
 ![Cultura Digital](https://miro.medium.com/max/400/0*9PyyNvrO2PcD3KuU.png)  
 
 [Idealment, crear una carpeta d'imatges o videos al directori i enllaçar des d'aquí en comptes de fer enllaços externs]: # 
@@ -90,7 +97,7 @@ Trobaràs la referència a aquest text [^1] al peu de pàgina.
 [^1]: Aquí es cita la font de la referència.
 <br>
 
-## Lista de marcat
+## Lista de feines pendents
 
 - [x] pujar la PAC acabada
 - [ ] e-mail al tutor
