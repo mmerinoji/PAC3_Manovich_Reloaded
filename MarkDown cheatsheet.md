@@ -52,12 +52,6 @@
 > text de la cita
 <br>
 
-## Fer una definició  
-
-paraula
-: definició
-<br>
-
 ## Fer una llista ordrenada  
 
 1. item 1
@@ -90,6 +84,19 @@ paraula
 [Idealment, crear una carpeta d'imatges o videos al directori i enllaçar des d'aquí en comptes de fer enllaços externs]: # 
 <br>
 
+## Fer una nota al peu de pàgina
+
+Trobaràs la referència a aquest text [^1] al peu de pàgina. 
+[^1]: Aquí es cita la font de la referència.
+<br>
+
+## Lista de marcat
+
+- [x] pujar la PAC acabada
+- [ ] e-mail al tutor
+- [ ] telefonar a en Marc
+<br>
+
 ## Fer una taula de dades
 
 | FITXA TÈCNICA |     |
@@ -103,5 +110,5 @@ paraula
 
 ## Exemple de llista bibliogràfica en ISO-690:  
 
-###### - **COGNOM, Nom**. *"Títol de l'article."* [En línia] [En català] [Consultat: 14/05/2022]. Disponible a: [text_que_es_veu](enllaç)  
+###### - **COGNOM, Nom**. *"Títol de l'article."* [En línia] [En català] [Consultat: 02/05/2025]. Disponible a: [text_que_es_veu](enllaç)  
 <br>
