@@ -67,12 +67,12 @@ Font: [The Markdown Guide](https://www.markdownguide.org)
 - item
     - item
     - item
-- item 
+- item  
 <br>
 
 ## Fer una línia divisoria
 
------  
+-----   
 <br>
 
 ## Fer un comentari invisible
@@ -114,10 +114,10 @@ Trobaràs la referència a aquest text [^1] al peu de pàgina.
 | Desenvolupador: | **Quantic Dream** |
 | Editor: | **Quantic Dream** |
 | Distribuidor: | **Quantic Dream** |
-| Data de publicació: | **17 Octubre 2013** |
+| Data de publicació: | **17 Octubre 2013** |  
 <br>
 
 ## Exemple de llista bibliogràfica en ISO-690:  
 
-###### - **COGNOM, Nom**. *"Títol de l'article."* [En línia] [En català] [Consultat: 02/05/2025]. Disponible a: [text_que_es_veu](enllaç)  
+###### - **COGNOM, Nom**. *"Títol de l'article."* [En línia] [En català] [Consultat: 02/05/2025]. Disponible a: [text_que_es_veu](enllaç)   
 <br>
