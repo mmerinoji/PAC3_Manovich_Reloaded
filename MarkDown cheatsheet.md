@@ -1,20 +1,48 @@
-# Bibliografía, webgrafía y recursos gráficos
+# Text nivell títol H1
+## Text nivell subtítol H2
+### Text nivell subtítol H3
+#### Text nivell subtítol H4
+##### Text nivell subtítol H5
+###### Text nivell subtítol H6  
 
-Ejemplo para citar texto en MD "> " :  
->Esta frase sale como citada.
+-----  
+[Això es una línia divisòria]: #  
 
-Ejemplo para hacer un Enlace de imagen con texto alternativo en MD "![texto alt](link web)":  
+Exemple per citar text amb "> " :  
+> Aquesta frase surt com a citada.  
+
+-----
+
+Exemple per fer un enllaç d'imatge amb text alternatiu amb "![texto alt](link web)":  
 ![Cultura Digital](https://miro.medium.com/max/400/0*9PyyNvrO2PcD3KuU.png)  
 
-Ejemplo de lista sin orden en MD "- ":  
+[Idealment, crear una carpeta d'imatges o videos al directori i enllaçar des d'aquí en comptes de fer enllaços externs]: # 
+-----
+
+![Beyond Two Souls](img/beyond-banner.png)
+| FICHA TÉCNICA  |   |
+| -- | -- |
+| Género | **Aventura Gráfica** |
+| Desarrollador | **Quantic Dream** |
+| Editor | **Quantic Dream** |
+| Distribuidor | **Quantic Dream** |
+| Fecha de lanzamiento | **17 Octubre 2013** |
+
+-----
+
+Exemple de llista sense ordre amb "- ":  
 - Perro
 - Gato
 - Mapache
 
-Ejemplo de lista ordenada en MD "1. ":
+-----
+
+Exemple de llista ordrenada amb "1. ":
 1. Perro
 2. Gato
 3. Mapache
 
-Ejemplo de lista bibliográfica ISO-690 en MD:  
-- **APELLIDO, Autor**. *"Título de artículo."* [En línea] [En castellà] [Consulta: 14/05/2022]. Disponible a: [texto_que _se_ve](texto_del_enlace)  
+-----
+
+Exemple de llista bibliogràfica ISO-690:  
+###### - **COGNOM, Nom**. *"Títol de l'article."* [En línia] [En català] [Consultat: 14/05/2022]. Disponible a: [text_que_es_veu](enllaç)  
