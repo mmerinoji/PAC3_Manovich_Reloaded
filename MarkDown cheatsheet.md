@@ -36,65 +36,72 @@
 `text de codi`    
 <br>
 
-## Fer una cita  
+## Text enquadrat
 
-> cita
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 <br>
 
-## Codi per fer una llista ordrenada  
+## Fer una cita  
+
+> text de la cita
+<br>
+
+## Fer una definició  
+
+paraula
+: definició
+<br>
+
+## Fer una llista ordrenada  
 
 1. item 1
 2. item 2
 3. item 3
 <br>
 
-## Codi per fer una llista sense ordre
+## Fer una llista sense ordre
 
 - item
 - item
 - item
 <br>
 
-## 
+## Fer una línia divisoria
 
 -----  
-[Això es una línia divisòria]: #  
+<br>
 
-Exemple per citar text amb "> " :  
-> Aquesta frase surt com a citada.  
+## Fer un comentari invisible
 
------
+[Aquí va el comentari]: #  
+<br>
 
-Exemple per fer un enllaç d'imatge amb text alternatiu amb "![texto alt](link web)":  
+## Fer un enllaç amb text alternatiu   
+
+![text alt](enllaç)  
 ![Cultura Digital](https://miro.medium.com/max/400/0*9PyyNvrO2PcD3KuU.png)  
 
 [Idealment, crear una carpeta d'imatges o videos al directori i enllaçar des d'aquí en comptes de fer enllaços externs]: # 
------
+<br>
 
-![Beyond Two Souls](img/beyond-banner.png)
-| FICHA TÉCNICA  |   |
+## Fer una taula de dades
+
+| FITXA TÈCNICA |     |
 | -- | -- |
-| Género | **Aventura Gráfica** |
-| Desarrollador | **Quantic Dream** |
-| Editor | **Quantic Dream** |
-| Distribuidor | **Quantic Dream** |
-| Fecha de lanzamiento | **17 Octubre 2013** |
+| Gènere: | **Aventures** |
+| Desenvolupador: | **Quantic Dream** |
+| Editor: | **Quantic Dream** |
+| Distribuidor: | **Quantic Dream** |
+| Data de publicació: | **17 Octubre 2013** |
+<br>
 
------
+## Exemple de llista bibliogràfica en ISO-690:  
 
-Exemple de llista sense ordre amb "- ":  
-- Perro
-- Gato
-- Mapache
-
------
-
-Exemple de llista ordrenada amb "1. ":
-1. Perro
-2. Gato
-3. Mapache
-
------
-
-Exemple de llista bibliogràfica ISO-690:  
 ###### - **COGNOM, Nom**. *"Títol de l'article."* [En línia] [En català] [Consultat: 14/05/2022]. Disponible a: [text_que_es_veu](enllaç)  
+<br>
