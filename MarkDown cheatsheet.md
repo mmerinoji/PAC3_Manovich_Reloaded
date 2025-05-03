@@ -1,23 +1,62 @@
 # Guia de MarkDown
+<br>
 
 ## Estils de capçaleres
-  # H1
-  ## H2
-  ### H3
-  #### H4
-  ##### H5
-  ###### H6  
 
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6  
+<br>
+  
 ## Text en cursiva  
-  *text en cursiva*  
+
+*text en cursiva*  
+<br>  
 
 ## Text en negreta  
-  **text en negreta**  
 
-## Text en negreta i cursiva  
-  ***text en negreta i cursiva***  
-
+**text en negreta**  
+<br>
   
+## Text en negreta i cursiva  
+
+***text en negreta i cursiva***  
+<br>
+  
+## Text rayat  
+
+~~text rayat~~    
+<br>
+
+## Text de codi  
+
+`text de codi`    
+<br>
+
+## Fer una cita  
+
+> cita
+<br>
+
+## Codi per fer una llista ordrenada  
+
+1. item 1
+2. item 2
+3. item 3
+<br>
+
+## Codi per fer una llista sense ordre
+
+- item
+- item
+- item
+<br>
+
+## 
+
 -----  
 [Això es una línia divisòria]: #  
 
