@@ -1,10 +1,23 @@
-# Text nivell títol H1
-## Text nivell subtítol H2
-### Text nivell subtítol H3
-#### Text nivell subtítol H4
-##### Text nivell subtítol H5
-###### Text nivell subtítol H6  
+# Guia de MarkDown
 
+## Estils de capçaleres
+  # H1
+  ## H2
+  ### H3
+  #### H4
+  ##### H5
+  ###### H6  
+
+## Text en cursiva  
+  *text en cursiva*  
+
+## Text en negreta  
+  **text en negreta**  
+
+## Text en negreta i cursiva  
+  ***text en negreta i cursiva***  
+
+  
 -----  
 [Això es una línia divisòria]: #  
 
