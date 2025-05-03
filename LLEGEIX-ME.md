@@ -1,20 +1,27 @@
-# Bibliografía, webgrafía y recursos gráficos
+# PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació  
 
-Ejemplo para citar texto en MD "> " :  
->Esta frase sale como citada.
+Autor: Miguel Merino
 
-Ejemplo para hacer un Enlace de imagen con texto alternativo en MD "![texto alt](link web)":  
-![Cultura Digital](https://miro.medium.com/max/400/0*9PyyNvrO2PcD3KuU.png)  
+Data: 16/05/2025 
 
-Ejemplo de lista sin orden en MD "- ":  
-- Perro
-- Gato
-- Mapache
 
-Ejemplo de lista ordenada en MD "1. ":
-1. Perro
-2. Gato
-3. Mapache
+## Introducció
 
-Ejemplo de lista bibliográfica ISO-690 en MD:  
-- **APELLIDO, Autor**. *"Título de artículo."* [En línea] [En castellà] [Consulta: 14/05/2022]. Disponible a: [texto_que _se_ve](texto_del_enlace)  
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+## Exemple 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+## Exemple 2
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+-----
+
+### Referencias y Bibliografía
+
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
