@@ -13,14 +13,18 @@ These are the elements outlined in John Gruber’s original design document. All
 # H1
 ## H2
 ### H3
+#### H4
+##### H5
+###### H6
 
 ### Bold
-
 **bold text**
 
 ### Italic
-
 *italicized text*
+
+### Bold Italic
+***Bold italic text***
 
 ### Blockquote
 
@@ -61,7 +65,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 ### Table
 
 | Syntax | Description |
-| ----------- | ----------- |
+| -------- | -------- |
 | Header | Title |
 | Paragraph | Text |
 
