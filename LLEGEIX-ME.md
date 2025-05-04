@@ -1,11 +1,9 @@
-# PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació  
-
+```
 Autor: Miguel Merino  
-
-Data: 16/05/2025  
-
------  
-
+Data d'entrega: 16/05/2025  
+Assignatura: Cultura Digital - Grau Multimèdia - UOC, 2025  
+```
+# PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació  
 
 ## Introducció
 
