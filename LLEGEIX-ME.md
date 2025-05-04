@@ -1,7 +1,7 @@
 ```
-Autor: Miguel Merino  
-Data d'entrega: 16/05/2025  
 Assignatura: Cultura Digital - Grau Multimèdia - UOC, 2025  
+Autor: Miguel Merino  
+Data d'entrega: 16/05/2025   
 ```
 # PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació  
 
