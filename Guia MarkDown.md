@@ -119,5 +119,9 @@ Trobaràs la referència a aquest text [^1] al peu de pàgina.
 
 ## Exemple de llista bibliogràfica en ISO-690:  
 
-###### - **COGNOM, Nom**. *"Títol de l'article."* [En línia] [En català] [Consultat: 02/05/2025]. Disponible a: [text_que_es_veu](enllaç)   
+[Per a article web]: # 
+- ###### **COGNOM, Nom**. *"Títol de l'article."* [En línia] [En català] [Consultat: 02/05/2025]. Disponible a: [text_que_es_veu](enllaç)   
+
+[Per a llibre o publicació física]: # 
+- ###### **MANOVICH, Lev**. *"El Software toma el mando."* [En castellà] Barcelona: Editorial UOC, 2013. ISBN: 978-84-9064-022-7.
 <br>
