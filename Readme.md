@@ -7,7 +7,7 @@ Data d'entrega: 16/05/2025
 
 ## Introducció
 
-Després de la **digitalització** i la **remediació**, la **hibridació** entre medis és un dels darrers conceptes clau per entendre els canvis i l'evolució dels nous medis digitals. Més enllà de la multimèdia, on els medis simplement conviuen de forma més o menys harmònica, la **hibridació** consisteix en un procés de fusió més profund entre elements de programari i interfície dels diferents medis involucrats, i que conclou amb el naixement d'una experiència innovadora i diferent, impossible d'obtenir d'altra manera o per simple addició de medis.
+Després de la **digitalització** i la **remediació**, la **hibridació** és un dels darrers conceptes clau per entendre els canvis i l'evolució dels nous medis digitals. Més enllà de la multimèdia, on els medis simplement conviuen de forma més o menys harmònica, la **hibridació** consisteix en un procés de fusió més profund entre elements de programari i interfície dels diferents medis involucrats, i que conclou amb el naixement d'una experiència innovadora i diferent, impossible d'obtenir d'altra manera o per simple addició de medis.
 
 
 
