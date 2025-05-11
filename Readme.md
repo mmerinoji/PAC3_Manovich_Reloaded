@@ -23,6 +23,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 -----  
 
-### Referencias y Bibliografía
+### Referències y Bibliografía
 
 - ###### **MANOVICH, Lev**. *"El Software toma el mando."* [En castellà] Barcelona: Editorial UOC, 2013. ISBN: 978-84-9064-022-7. 
