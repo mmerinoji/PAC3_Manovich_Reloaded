@@ -27,4 +27,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Referències y Bibliografía
 
 - ###### **MANOVICH, Lev**. *"El Software toma el mando."* [En castellà] Barcelona: Editorial UOC, 2013. ISBN: 978-84-9064-022-7.
-- ###### **ADELL, Ferran**. *"Remediación, multimedia e hibridación de los medios."* [En línia][En castellà][Data consulta: 11 de maig de 2025] Disponible a:  [https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+- ###### **ADELL, Ferran**. *"Remediación, multimedia e hibridación de los medios."* [En línia][En castellà]. 6 d'abril de 2014 [Data consulta: 11 de maig de 2025] Disponible a:  [https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
