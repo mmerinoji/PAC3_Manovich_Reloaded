@@ -7,11 +7,16 @@ Data d'entrega: 16/05/2025
 
 ## Introducció
 
-Després de la **digitalització** i la **remediació**, la **hibridació** és un dels darrers conceptes clau per entendre els canvis i l'evolució dels nous medis digitals. Més enllà de la multimèdia, on els medis simplement conviuen de forma més o menys harmònica, la **hibridació** consisteix en un procés de fusió més profund entre elements de programari i interfície dels diferents medis involucrats, i que conclou amb el naixement d'una experiència innovadora i diferent, impossible d'obtenir d'altra manera o per simple addició de medis.
+Després de la **digitalització** i la **remediació**, la **hibridació** és un dels darrers conceptes clau per entendre els canvis i l'evolució dels nous medis digitals. Més enllà de la multimèdia, on els diferents medis conviuen de forma més o menys harmònica, tot i que de manera independent, la hibridació consisteix en un procés molt més profund de fusió entre elements de programari i interfície dels diferents medis involucrats, que dona lloc al naixement d'una experiència diferent i innovadora, impossible d'obtenir per via de la simple addició de medis.
+
+És fruit d’aquesta hibridació de medis que avui podem gaudir d’eines d’intel·ligència artificial, xarxes socials, entorns de realitat augmentada i virtual, vídeos interactius, música generativa o exposicions immersives... Entre molts altres exemples. Tanmateix, els dos exemples triats per analitzar en aquest assaig s’allunyen volgudament del marc purament digital per poder explorar les subtileses i matisos que permeten descobrir nous significats en la hibridació dels medis.
 
 
 
-## Exemple 1
+
+## Exemple 1: Dance Monsters
+
+![Imatge promocional del programa "Dance Monsters"](media/Dance Monsters promo.jpg) 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
