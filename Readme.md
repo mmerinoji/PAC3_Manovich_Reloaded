@@ -18,7 +18,15 @@ Després de la **digitalització** i la **remediació**, la **hibridació** és 
 
 ![Imatge promocional del programa Dance Monsters](https://raw.githubusercontent.com/mmerinoji/PAC3_Manovich_Reloaded/refs/heads/main/media/Dance%20Monsters%20promo.jpg) 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+“Dance Monsters” és un *talent show* britànic que es pot trobar disponible a la plataforma [Netflix](https://www.netflix.com/es/title/81094767). La mecànica es tant senzilla com a la resta de programes de l’estil: un grapat de participants aficionats, mostren les seves habilitats de ball “enfront” d’un jurat format per 3 coneguts artistes escènics. En aquest cas, però, el títol del programa no deixa cap marge a la imaginació i el que hi trobarem a “Dance Monsters” serà, sobretot, **monstres ballant**. Literalment. I aquí es quan la cosa comença a posar-se interessant... 
+
+Per començar, la identitat dels participants queda totalment oculta a públic i jurat, ja que competeixen sota un pseudònim i amagats rere un avatar digital. Tampoc no surten a ballar a l’escenari “enfront” ningú, sinó que ho fan entre bastidors, enfundats en un vestit ple de sensors de captura de moviment mentre els jutges miren (i jutgen) el seu avatar a través d’una pantalla. Tot en viu i en directe, i alhora sense cap contacte.
+
+Portar a terme tot això implica un munt de tecnologia física i digital, com els vestits de sensors, el programari de captura de moviment en temps real, el modelat CGI, els motors gràfics “Unreal Engine” o la tecnologia satel·lital "Star Tracker", a banda de la tecnologia i aparells habituals per a la realització i enregistrament d’un programa de televisió.
+
+#### Per què “Dance Monsters” es un exemple d’hibridació?
+Tot i que aquest desplegament tecnològic no fa variar gaire el format del programa, quedant com un tret més exòtic que no pas disruptiu, el resultat de la fusió entre medis audiovisuals tradicionals i tecnologies digitals avançades, sí que ofereix una nova experiència al consumidor que no podria existir sense la hibridació dels diferents medis que hi prenen part. D’altra banda, aquest ús creatiu de la tecnologia, també permet obtenir una experiència genuïna del nou medi hibridat com és **el total anonimat dels concursants**. Així, el nou medi hibridat permet que persones amb pànic escènic, cossos no normatius o d’especial rellevància social (entre d’altres), puguin demostrar les seves aptituds de ball conservant la privadesa, sense prejudicis a la seva imatge i sent valorats únicament pels seus moviments al ritme de la música, que és, al capdavall, del que es tracta.
+
 
 
 
@@ -33,3 +41,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 - ###### **MANOVICH, Lev**. *"El Software toma el mando."* [En castellà] Barcelona: Editorial UOC, 2013. ISBN: 978-84-9064-022-7.
 - ###### **ADELL, Ferran**. *"Remediación, multimedia e hibridación de los medios."* [En línia][En castellà]. 6 d'abril de 2014 [Data consulta: 11 de maig de 2025] Disponible a:  [https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+- ###### **KRAFT, C**. *"How Does ‘Dance Monsters’ Work?"* [En línia][En anglès]. *TUDUM*, 23 de desembre de 2022 [Data consulta: 14 de maig de 2025] Disponible a:  [https://www.netflix.com/tudum/articles/dance-monsters-cgi](https://www.netflix.com/tudum/articles/dance-monsters-cgi)
+- ###### **MITRA, Shraman**. *"What Do The Judges See On Dance Monsters? Explained"* [En línia][En anglès]. *THE CINEMAHOLIC*, 24 de desembre de 2022 [Data consulta: 14 de maig de 2025] Disponible a:  [https://thecinemaholic.com/what-do-the-judges-see-on-dance-monsters-explained/](https://thecinemaholic.com/what-do-the-judges-see-on-dance-monsters-explained/)
+- ###### *"The innovative technology behind Netflix’s Dance Monsters"* [En línia][En anglès]. *PAULTON*, 15 de març de 2025 [Data consulta: 14 de maig de 2025] Disponible a:  [https://paulton.co.za/the-innovative-technology-behind-netflixs-dance-monsters/](https://paulton.co.za/the-innovative-technology-behind-netflixs-dance-monsters/)
