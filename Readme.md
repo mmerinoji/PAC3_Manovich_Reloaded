@@ -8,7 +8,7 @@ Llicència: CC BY-NC-ND 4.0
 
 ## Introducció
 
-Després de la **digitalització** i la **remediació**, la **hibridació** és un dels darrers conceptes clau per entendre els canvis i l'evolució dels nous medis digitals. Més enllà de la multimèdia, on els diferents medis conviuen de forma més o menys harmònica, tot i que de manera independent, la hibridació consisteix en un procés molt més profund de fusió entre elements de programari i interfície dels diferents medis involucrats, que dona lloc al naixement d'una experiència diferent i innovadora, impossible d'obtenir per via de la simple addició de medis.
+Després de la **digitalització** i la **remediació**, la **hibridació** és un dels darrers conceptes clau per entendre els canvis i l'evolució dels nous medis digitals. Més enllà de la multimèdia, on els diferents medis conviuen de forma més o menys harmònica, tot i que de manera independent, la hibridació consisteix en un procés molt més profund de fusió entre elements de programari i interfície dels diferents medis involucrats, que dona lloc al naixement d'una experiència diferent i innovadora, impossible d'obtenir per cap altre via.
 
 És fruit d’aquesta hibridació de medis que avui podem gaudir d’eines d’intel·ligència artificial, xarxes socials, entorns de realitat augmentada i virtual, vídeos interactius, música generativa o exposicions immersives... Entre molts altres exemples. Tanmateix, els dos exemples triats per analitzar en aquest assaig s’allunyen volgudament del marc purament digital per poder **explorar les subtileses i matisos que permeten descobrir nous significats** en la hibridació dels medis.
    
