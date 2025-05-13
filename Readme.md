@@ -1,7 +1,8 @@
 ```
 Assignatura: Cultura Digital - Grau Multimèdia - UOC, 2025  
 Autor: Miguel Merino  
-Data d'entrega: 16/05/2025   
+Data d'entrega: 16/05/2025
+Llicència: CC BY-NC-ND 4.0 [veure](/llicencia.md)   
 ```
 # PAC3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació  
 
