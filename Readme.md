@@ -23,7 +23,7 @@ Després de la **digitalització** i la **remediació**, la **hibridació** és 
 
 Per començar, la identitat dels participants queda totalment oculta a públic i jurat, ja que competeixen sota un pseudònim i **amagats rere un avatar digital**. Tampoc no surten a ballar a l’escenari, sinó que ho fan entre bastidors, enfundats en un **vestit ple de sensors de captura de moviment** mentre els jutges valoren el seu avatar a través d’una pantalla. Tot en viu i en directe, i alhora sense cap mena de contacte.
 
-Per dur a terme tot això, el programa ha fet servir tot un ventall de noves tecnologies, com els vestits de sensors, el programari de captura de moviment en temps real, el modelatge CGI, els motors gràfics “Unreal Engine” o la tecnologia per a satèl·lits "Star Tracker", a banda de la tecnologia i aparells habituals per a la realització i enregistrament d’un programa de televisió.
+Per dur a terme tot això, el programa ha fet servir tot un ventall de noves tecnologies, com els **vestits de sensors**, el programari de **captura de moviment** en temps real, el **modelatge CGI**, els motors gràfics **“Unreal Engine”** o la tecnologia per a satèl·lits **"Star Tracker"**, a banda de la tecnologia i aparells habituals per a la realització i enregistrament d’un programa de televisió.
 
 
 
