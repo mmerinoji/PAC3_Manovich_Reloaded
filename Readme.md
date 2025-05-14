@@ -17,7 +17,7 @@ Després de la **digitalització** i la **remediació**, la **hibridació** és 
 
 ## Exemple 1: Dance Monsters
 
-![Imatge promocional del programa Dance Monsters](https://raw.githubusercontent.com/mmerinoji/PAC3_Manovich_Reloaded/refs/heads/main/media/Dance%20Monsters%20promo.jpg) 
+[https://raw.githubusercontent.com/mmerinoji/PAC3_Manovich_Reloaded/refs/heads/main/media/Dance%20Monsters%20promo.jpg](https://raw.githubusercontent.com/mmerinoji/PAC3_Manovich_Reloaded/refs/heads/main/media/Dance%20Monsters%20promo.jpg) 
 
 **“Dance Monsters”** és un *talent show* britànic que es pot trobar disponible a la plataforma [Netflix®](https://www.netflix.com/es/title/81094767). La mecànica és tan senzilla com a la resta de programes del mateix estil: un grapat de participants aficionats, mostren les seves habilitats de ball “enfront” d’un jurat format per 3 coneguts artistes escènics que els van qualificant o descartant fins a quedar-se amb el millor de tots. En aquest cas, però, el títol del programa no deixa cap marge a la imaginació i el que hi trobarem a **“Dance Monsters”** serà, literalment, **monstres ballant**. I aquí és quan la cosa es posa interessant... 
 
