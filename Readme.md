@@ -36,13 +36,13 @@ Tot i que **”Dance Monsters”** continua mantenint la mecànica clàssica del
 
 ## Exemple 2: vídeo-*mapping* **"El retablo te cuenta"**
 
-![imatge del video-mapping de Torreciudad](https://raw.githubusercontent.com/mmerinoji/PAC3_Manovich_Reloaded/refs/heads/main/media/Dance%20Monsters%20promo.jpg) 
+![imatge del video-mapping de Torreciudad](https://raw.githubusercontent.com/mmerinoji/PAC3_Manovich_Reloaded/refs/heads/main/media/Video-mapping-de-Torreciudad.jpg) 
 
-Inaugurada l’any 2020 al Santuari marià de Torreciudad (Osca), com a part d’una renovació museogràfica que *“cerca connectar l’art sacre amb les sensibilitats contemporànies a través de les tecnologies immersives”*, l’experiència audiovisual **“El retablo te cuenta”** consisteix en un espectacle de 6 minuts de durada sobre diferents escenes de la vida de la Verge Maria, tot combinant narració en *off* amb música, efectes sonors i una projecció vídeo-*mapping* sobre l’enorme i impressionant retaule escultòric de gairebé 15 x 10 metres que presideix el temple.  
+Inaugurada l’any 2020 al Santuari marià de Torreciudad (Osca), com a part d’una renovació museogràfica que *“cerca connectar l’art sacre amb les sensibilitats contemporànies a través de les tecnologies immersives”*, l’experiència audiovisual **“El retablo te cuenta”** consisteix en un espectacle de 6 minuts de durada sobre diferents escenes de la vida de la Verge Maria, tot combinant narració en *off* amb música, efectes sonors i una projecció vídeo-*mapping* sobre l’enorme i impressionant retaule escultòric de gairebé 15 x 10 metres que presideix el temple. Al següent enllaç es pot [veure un video](https://www.youtube.com/watch?v=qocRRTFE5n4&t=37s) d'un minut del vídeo-*mapping* de **"El retablo te cuenta"**.  
 
 D’entre el grapat de noves tecnologies emprades a l’espectacle, en destaquen els **projectors d’alta resolució**, el **programari de mapatge**, i el **modelatge i animacions 3D** que, combinats amb el llenguatge narratiu, la música, els efectes sonors i lumínics, conformen una experiència audiovisual tant captivant com única encara que hi hagis entrat al temple només com a turista.
 
-Al següent enllaç es pot [veure un video](https://www.youtube.com/watch?v=qocRRTFE5n4&t=37s) d'un minut del vídeo-*mapping* de **"El retablo te cuenta"**.
+
 
 #### Per què el vídeo-*mapping* **“El retablo te cuenta”** es un exemple d’hibridació?
 Històricament, els retaules acomplien una doble funció: com a objecte religiós, i com eina didàctica mitjançant les imatges, en una època en la qual saber llegir era un privilegi. A **“El retablo te cuenta”**, el vídeo-*mapping* —en tant que tècnica que combina espais físics amb animacions, música, efectes sonors, tecnologia digital i, en alguns casos, també interacció— serveix per reforçar aquesta intenció pedagògica del retaule, tot i que reinterpretant-lo mitjançant els espectaculars recursos i capacitats dels nous medis digitals. D’aquesta manera, el retaule deixa de ser un objecte estàtic per convertir-se en una experiència immersiva que continua sent capaç de transmetre el missatge a l’espectador contemporani, tot i que amb un llenguatge visual del segle XXI.  
