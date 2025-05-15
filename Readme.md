@@ -15,7 +15,7 @@ Després de la **digitalització** i la **remediació**, la **hibridació** és 
    
 
 
-## Exemple 1: Dance Monsters
+## Exemple 1: **Dance Monsters**
 
 ![imatge promocional del concurs de ball Dance Monsters](https://raw.githubusercontent.com/mmerinoji/PAC3_Manovich_Reloaded/refs/heads/main/media/Dance%20Monsters%20promo.jpg) 
 
@@ -27,16 +27,25 @@ Per dur a terme tot això, el programa ha fet servir tot un ventall de noves tec
 
 
 
-#### Per què “Dance Monsters” es un exemple d’hibridació?
+#### Per què **“Dance Monsters”** es un exemple d’hibridació?
 
 Tot i que **”Dance Monsters”** continua mantenint la mecànica clàssica dels *talent shows*, l’ús de tecnologies avançades —com la captura de moviment o l’animació d’avatars digitals— afegeix una nova dimensió al format. Aquest desplegament tecnològic, lluny de ser només un afegit exòtic, actua com a filtre entre concursant i públic, tot separant a la persona de la seva expressió corporal i mostrant només el seu moviment en estat pur. Aquesta desmaterialització del concursant ofereix a l’espectador una experiència innovadora, inclassificable segons les categories preexistents i que només és possible d’obtenir gràcies a la hibridació de diferents medis, tal com proposa Manovich en la seva definició. A més, aquesta dissociació entre la persona i el seu moviment, també permet **la preservació de l'anonimat dels concursants**. En aquest sentit, **el nou medi híbrid facilita la inclusió** de persones amb perfils poc habituals (cossos no normatius, pànic escènic, d’especial rellevància social, etc.), per a participar i demostrar les seves aptituds de ball sense haver d’exposar-se públicament o sentir-se prejutjades per la seva aparença, sinó únicament pel seu talent i expressivitat ballant al ritme de la música —que és, en definitiva, el veritable objectiu.
 
 
 
 
-## Exemple 2
+## Exemple 2: vídeo-*mapping* **"El retablo te cuenta"**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Inaugurada l’any 2020 al Santuari marià de Torreciudad (Osca), com a part d’una renovació museogràfica que *“cerca connectar l’art sacre amb les sensibilitats contemporànies a través de les tecnologies immersives”*, l’experiència audiovisual **“El retablo te cuenta”** consisteix en un espectacle de 6 minuts de durada sobre diferents escenes de la vida de la Verge Maria, tot combinant narració en *off* amb música, efectes sonors i una projecció vídeo-*mapping* sobre l’enorme i impressionant retaule escultòric de gairebé 15 x 10 metres que presideix el temple.  
+
+D’entre el grapat de noves tecnologies emprades a l’espectacle, en destaquen els **projectors d’alta resolució**, el **programari de mapatge**, i el **modelatge i animacions 3D** que, combinats amb el llenguatge narratiu, la música, els efectes sonors i lumínics, conformen una experiència audiovisual tant captivant com única encara que hi hagis entrat al temple només com a turista.
+
+#### Per què el vídeo-*mapping* **“El retablo te cuenta”** es un exemple d’hibridació?
+Històricament, els retaules acomplien una doble funció: com a objecte religiós, i com eina didàctica mitjançant les imatges, en una època en la qual saber llegir era un privilegi. A **“El retablo te cuenta”**, el *vídeo-mapping* —en tant que tècnica que combina espais físics amb animacions, música, efectes sonors, tecnologia digital i, en alguns casos, també interacció— serveix per reforçar aquesta intenció pedagògica del retaule, tot i que reinterpretant-lo mitjançant els espectaculars recursos i capacitats dels nous medis digitals. D’aquesta manera, el retaule deixa de ser un objecte estàtic per convertir-se en una experiència immersiva que continua sent capaç de transmetre el missatge a l’espectador contemporani, tot i que amb un llenguatge visual del segle XXI.  
+
+**“El retablo te cuenta”** és el fruit d’una fusió de mitjans i tecnologies, on la unió de l’art tradicional amb les possibilitats expressives del món digital, donant lloc a una nova forma de transmissió cultural que manté l’essència del missatge, però n’actualitza el canal. Una experiència que no pot ser catalogada només com a cinema, escultura o teatre, sinó com totes juntes i alhora cap en concret, cosa que exemplifica clarament la definició d’**hibridació** donada per Manovich.
+
+
 
 -----  
 
