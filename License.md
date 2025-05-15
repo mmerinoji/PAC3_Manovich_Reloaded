@@ -7,4 +7,4 @@ Els textos inclosos al repositori tenen llicència Creative Commons BY-NC-ND 4.0
 Podeu consultar el tipus de llicència al següent enllaç:
 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ca
 
-![Creative Commons BY-NC-ND 4.0](https://raw.githubusercontent.com/mmerinoji/PAC3_Manovich_Reloaded/refs/heads/main/media/CC%20BY-NC-ND.png)
+![Creative Commons BY-NC-ND 4.0](https://raw.githubusercontent.com/mmerinoji/PAC3_Manovich_Reloaded/refs/heads/main/media/CC%20BY-NC-ND.png width="200")
