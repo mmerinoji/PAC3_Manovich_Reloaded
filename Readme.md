@@ -18,7 +18,10 @@ Després de la **digitalització** i la **remediació**, la **hibridació** és 
 ## Exemple 1: **Dance Monsters**
 
 ![imatge promocional del concurs de ball Dance Monsters](https://raw.githubusercontent.com/mmerinoji/PAC3_Manovich_Reloaded/refs/heads/main/media/Dance%20Monsters%20promo.jpg) 
-###### Imatge promocional del concurs de ball Dance Monsters (Netflix©).  
+```
+Imatge promocional del concurs de ball Dance Monsters (Netflix©).
+```
+
 
 **“Dance Monsters”** és un *talent show* britànic que es pot trobar disponible a la plataforma [Netflix®](https://www.netflix.com/es/title/81094767). La mecànica és tan senzilla com a la resta de programes del mateix estil: un grapat de participants aficionats, mostren les seves habilitats de ball “enfront” d’un jurat format per 3 coneguts artistes escènics que els van qualificant o descartant fins a quedar-se amb el millor de tots. En aquest cas, però, el títol del programa no deixa cap marge a la imaginació i el que hi trobarem a **“Dance Monsters”** serà, literalment, **monstres ballant**. I aquí és quan la cosa es posa interessant... 
 
@@ -38,7 +41,10 @@ Tot i que **”Dance Monsters”** continua mantenint la mecànica clàssica del
 ## Exemple 2: vídeo-*mapping* **"El retablo te cuenta"**
 
 ![imatge del video-mapping de Torreciudad](https://raw.githubusercontent.com/mmerinoji/PAC3_Manovich_Reloaded/refs/heads/main/media/Video-mapping-de-Torreciudad.jpg)  
-###### Imatge del video-mapping de Torreciudad (Santuari de Torreciudad©)
+```
+Imatge del video-mapping de Torreciudad (Santuari de Torreciudad©)
+```
+
 
 Inaugurada l’any 2020 al Santuari marià de Torreciudad (Osca), l’experiència audiovisual **“El retablo te cuenta”** forma part d’una iniciativa de renovació de l’experiència cultural i espiritual per als visitants del santuari, tot fent servir les tecnologies digitals immersives per *“connectar l’art sacre amb les sensibilitats contemporànies”*. D’uns 6 minuts de durada, l’espectacle centra el seu fil conductor sobre diferents escenes de la vida de la Verge Maria, tot combinant narració en *off*, música, efectes sonors i una projecció *vídeo-mapping* sobre l’enorme i impressionant retaule escultòric de gairebé 15 x 10 metres que presideix el temple. Aquesta experiència audiovisual ha rebut diverses distincions i premis com la “Medalla al mèrit Turístic 2022” atorgada pel Govern d’Aragó, i seleccionada com a finalista a la VII edició dels “Premis a la Millor Experiència Turística d'Aragó” de l’any 2023. Al següent [enllaç](https://www.youtube.com/watch?v=qocRRTFE5n4&t=37s) es pot veure un minut del vídeo-*mapping* de **"El retablo te cuenta"**.  
 
